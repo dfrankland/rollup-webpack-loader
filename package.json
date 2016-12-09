@@ -1,7 +1,7 @@
 {
   "name": "rollup-webpack-loader",
   "description": "Add rollup to your webpack.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dfrankland/rollup-webpack-loader.git"
